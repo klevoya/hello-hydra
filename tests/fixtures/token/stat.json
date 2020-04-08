@@ -1,0 +1,9 @@
+{
+    "EOS": [
+        {
+            "supply": "1.2345 EOS",
+            "max_supply": "1000.0000 EOS",
+            "issuer": "user1"
+        }
+    ]
+}
