@@ -1,13 +1,13 @@
 {
-  "name": "token",
+  "name": "hello-hydra",
   "version": "1.0.0",
-  "description": "Testing token smart contract with Hydra",
+  "description": "Testing the token smart contract with Hydra",
   "main": "",
   "scripts": {
     "test": "jest"
   },
   "dependencies": {
-    "@klevoya/hydra": "*",
+    "@klevoya/hydra": "latest",
     "jest": "^25.1.0"
   },
   "devDependencies": {
